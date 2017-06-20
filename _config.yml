@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: flatMap(Me) { A => M[B] }
+title: flatMap(Me)(A => M[B])
 description: Some notes about some things, mostly Scala related stuff.
 
 # Conversion

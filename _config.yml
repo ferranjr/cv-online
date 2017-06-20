@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: flatMap(Me) { A => M[B] }
 description: We have some notes about some things, mostly Scala related things.
+
+# Conversion
+markdown:    kramdown

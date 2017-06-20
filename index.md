@@ -1,7 +1,4 @@
 ## About Me
 
-I am passionate about Computer Science and since I was a child I'm being interested in Computers so I decided to
-study Multimedia Engineering in La Salle University (Barcelona) and focus my career to Software Engineer.
-
-Currently I do some coding for **Adstream Ltd UK** as **Scala Developer**.
+Hi @everyone! It's Ferran a Scala Developer who currenly is doing some coding for **Adstream Ltd UK**.
 
